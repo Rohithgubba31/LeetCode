@@ -8,9 +8,7 @@ class Solution {
                 answer[1]=j;
             }
         }
-
-
-    }
+    } 
     return answer;
     }
 }
